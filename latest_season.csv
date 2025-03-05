@@ -1,0 +1,119 @@
+Name,Team Name,Position,Age,Season,FIFA Rating,Injury,Date of Injury,Date of Return,Length of Injury in Days,3 Matches Before Injury Player Rating,2 Matches Before Injury Player Rating,1 Match Before Injury Player Rating,Average Rating Before Injury,1 Match After Injury Player Rating,2 Matches After Injury Player Rating,3 Matches After Injury Player Rating,Average Rating After Injury
+Jamaal Lascelles,Newcastle,Center Back,30,2023/24,76,Unknown Injury,2023-12-23,2024-01-01,9,4.9,7.5,6.1,6.166666666666667,,,,
+Fabian Schär,Newcastle,Center Back,32,2023/24,82,Hamstring Injury,2024-04-27,2024-05-15,18,7.8,5.8,5.9,6.5,5.6,5.7,,5.65
+Joelinton,Newcastle,Central Midfielder,27,2023/24,82,Hamstring Injury,2023-09-13,2023-10-15,32,6.0,6.8,6.3,6.366666666666667,6.5,6.8,7.8,7.033333333333334
+Joelinton,Newcastle,Central Midfielder,27,2023/24,82,Hamstring Injury,2023-12-16,2023-12-25,9,7.0,7.0,5.6,6.533333333333334,5.8,6.6,,6.199999999999999
+Joelinton,Newcastle,Central Midfielder,27,2023/24,82,Groin Injury,2024-01-06,2024-05-03,118,5.8,6.6,,6.199999999999999,6.0,6.0,7.0,6.333333333333333
+Sean Longstaff,Newcastle,Central Midfielder,26,2023/24,77,Ankle Injury,2023-11-11,2023-12-08,27,6.5,6.5,5.9,6.3,5.7,6.8,6.0,6.166666666666667
+Miguel Almirón,Newcastle,Right Winger,30,2023/24,79,Knee Injury,2024-03-30,2024-05-03,34,6.2,6.3,6.3,6.266666666666667,6.0,6.2,5.6,5.933333333333333
+Joe Willock,Newcastle,Central Midfielder,24,2023/24,78,Hamstring Injury,2023-08-01,2023-10-23,83,,,,,6.0,7.0,6.4,6.466666666666666
+Joe Willock,Newcastle,Central Midfielder,24,2023/24,78,Achilles Tendon Problems,2023-11-24,2024-02-23,91,6.0,7.0,6.4,6.466666666666666,7.0,6.4,6.6,6.666666666666667
+Joe Willock,Newcastle,Central Midfielder,24,2023/24,78,Achilles Tendon Problems,2024-04-06,2024-05-20,44,6.4,6.0,6.0,6.133333333333333,,,,
+Elliot Anderson,Newcastle,Central Midfielder,18,2023/24,74,Back Injury,2023-10-23,2024-02-25,125,6.6,6.4,5.0,6.0,,6.1,7.0,6.55
+Callum Wilson,Newcastle,Center Forward,32,2023/24,82,Hamstring Injury,2023-09-24,2023-10-07,13,7.0,6.7,7.3,7.0,,7.0,7.4,7.2
+Callum Wilson,Newcastle,Center Forward,32,2023/24,82,Hamstring Injury,2023-11-07,2023-12-08,31,7.0,7.4,5.7,6.7,7.0,6.2,6.4,6.533333333333334
+Callum Wilson,Newcastle,Center Forward,32,2023/24,82,Calf Injury,2023-12-26,2024-02-01,37,6.2,6.4,6.0,6.2,6.0,5.7,,5.85
+Callum Wilson,Newcastle,Center Forward,32,2023/24,82,Chest Injury,2024-02-11,2024-04-15,64,6.0,5.7,,5.85,6.0,7.0,7.1,6.7
+Callum Wilson,Newcastle,Center Forward,32,2023/24,82,Ill,2024-05-06,2024-05-17,11,6.0,7.0,7.1,6.7,6.0,,,6.0
+Dan Burn,Newcastle,Center Back,32,2023/24,78,Back Injury,2023-11-04,2023-12-11,37,6.7,6.2,6.3,6.3999999999999995,8.4,6.6,5.9,6.966666666666666
+Kieran Trippier,Newcastle,Right Back,33,2023/24,85,Groin Injury,2023-12-26,2024-01-05,10,,6.8,7.0,6.9,6.5,7.4,7.7,7.2
+Kieran Trippier,Newcastle,Right Back,33,2023/24,85,Calf Injury,2024-03-02,2024-05-10,69,6.0,5.2,6.2,5.8,,6.0,6.0,6.0
+Sven Botman,Newcastle,Center Back,24,2023/24,83,Ankle Injury,2023-08-27,2023-09-15,19,7.4,6.7,6.4,6.833333333333333,7.1,8.5,,7.8
+Sven Botman,Newcastle,Center Back,24,2023/24,83,Knee Injury,2023-09-28,2023-12-15,78,7.1,8.5,,7.8,,6.8,5.7,6.25
+Sven Botman,Newcastle,Center Back,24,2023/24,83,Knee Injury,2024-03-20,2024-12-02,257,4.3,6.7,6.2,5.733333333333333,,,,
+Lewis Miley,Newcastle,Central Midfielder,18,2023/24,70,Ill,2023-10-16,2023-11-01,16,,,,,6.6,6.8,7.4,6.933333333333333
+Lewis Miley,Newcastle,Central Midfielder,18,2023/24,70,Back Injury,2024-03-25,2024-05-20,56,5.9,6.0,6.0,5.966666666666666,,,,
+Anthony Gordon,Newcastle,Left Winger,23,2023/24,80,Ankle Injury,2024-05-15,2024-05-27,12,7.0,7.0,8.4,7.466666666666666,,,,
+Alexander Isak,Newcastle,Center Forward,24,2023/24,83,Groin Injury,2023-10-25,2023-11-24,30,6.9,8.7,5.4,7.0,6.6,6.7,5.4,6.233333333333334
+Alexander Isak,Newcastle,Center Forward,24,2023/24,83,Groin Injury,2024-01-30,2024-02-23,24,7.8,7.1,5.7,6.866666666666667,5.7,6.9,7.1,6.566666666666667
+Tino Livramento,Newcastle,Right Back,21,2023/24,74,Ill,2024-01-12,2024-01-20,8,,6.0,5.8,5.9,6.0,6.0,,6.0
+Tino Livramento,Newcastle,Right Back,21,2023/24,74,Ankle Injury,2024-03-11,2024-04-12,32,7.5,5.9,6.0,6.466666666666666,6.0,7.1,6.5,6.533333333333334
+Tino Livramento,Newcastle,Right Back,21,2023/24,74,Ankle Injury,2024-05-14,2024-05-27,13,7.1,6.5,6.9,6.833333333333333,,,,
+Harvey Barnes,Newcastle,Left Winger,26,2023/24,80,Foot Injury,2023-09-24,2024-02-01,130,5.7,6.3,6.0,6.0,7.1,6.1,6.4,6.533333333333334
+Harvey Barnes,Newcastle,Left Winger,26,2023/24,80,Hamstring Injury,2024-03-02,2024-03-30,28,6.4,5.5,6.0,5.966666666666666,8.7,7.9,5.8,7.466666666666668
+Fabian Schär,Newcastle,Center Back,32,2023/24,82,Concussion,2023-02-27,2023-03-05,6,6.7,5.6,5.5,5.933333333333334,6.6,6.4,6.9,6.633333333333333
+Nick Pope,Newcastle,Goalkeeper,32,2023/24,84,Shoulder Injury,2023-12-02,2024-05-02,152,8.1,6.3,6.3,6.8999999999999995,6.1,,,6.1
+Gabriel Martinelli,Arsenal,Left Winger,23,2023/24,83,Hamstring Injury,2023-09-17,2023-10-07,20,7.0,7.2,5.7,6.633333333333333,7.2,6.6,7.2,7.0
+Gabriel Martinelli,Arsenal,Left Winger,23,2023/24,83,Foot Injury,2024-03-05,2024-03-29,24,6.4,7.4,8.2,7.333333333333333,8.0,,6.3,7.15
+Bukayo Saka,Arsenal,Right Winger,22,2023/24,86,Unknown Injury,2024-03-21,2024-04-06,16,6.7,6.8,5.5,6.333333333333333,7.3,7.0,7.1,7.133333333333333
+Bukayo Saka,Arsenal,Right Winger,22,2023/24,86,Thigh Injury,2023-10-03,2023-10-21,18,7.1,7.9,7.5,7.5,6.9,6.5,6.8,6.733333333333333
+Thomas Partey,Arsenal,Defensive Midfielder,31,2023/24,84,Groin Injury,2023-09-02,2023-10-03,31,7.6,7.6,6.9,7.366666666666667,6.0,,,6.0
+Thomas Partey,Arsenal,Defensive Midfielder,31,2023/24,84,Hamstring Injury,2023-11-09,2024-02-29,112,,,,,6.8,,5.9,6.35
+Martin Ødegaard,Arsenal,Attacking Midfielder,25,2023/24,88,Hip Injury,2023-11-03,2023-11-22,19,8.5,6.7,6.0,7.066666666666666,6.5,9.5,7.2,7.733333333333333
+Ben White,Arsenal,Right Back,26,2023/24,82,Knee Injury,2023-11-09,2023-11-20,11,6.1,6.9,6.3,6.433333333333333,,6.0,7.2,6.6
+Takehiro Tomiyasu,Arsenal,Right Back,25,2023/24,78,Calf Injury,2023-12-03,2024-03-20,108,6.7,7.4,7.1,7.066666666666666,6.5,6.2,5.9,6.2
+Oleksandr Zinchenko,Arsenal,Left Back,27,2023/24,80,Calf Injury,2023-12-30,2024-01-18,19,7.8,6.8,6.5,7.033333333333334,7.8,8.0,6.0,7.266666666666667
+Gabriel Jesus,Arsenal,Center Forward,27,2023/24,82,Hamstring Injury,2023-10-24,2023-11-19,26,6.7,6.5,5.7,6.3,6.4,5.9,8.6,6.966666666666666
+Gabriel Jesus,Arsenal,Center Forward,27,2023/24,82,Knee Injury,2024-01-05,2024-01-18,13,6.0,7.5,7.9,7.133333333333333,6.0,6.0,6.6,6.2
+Matty Cash,Aston Villa,Defensive Midfielder,26,2023/24,79,Calf Injury,2024-05-12,2024-06-12,31,6.2,6.7,5.5,6.133333333333333,,,,
+Matty Cash,Aston Villa,Right Back,26,2023/24,79,Hamstring Injury,2024-03-21,2024-04-12,22,6.0,5.6,6.4,6.0,,5.5,,5.5
+Matty Cash,Aston Villa,Right Back,26,2023/24,79,Ill,2023-12-29,2023-12-31,2,,7.4,6.0,6.7,,6.8,4.5,5.65
+Diego Carlos,Aston Villa,Center Back,31,2023/24,81,Hamstring Injury,2024-02-14,2024-03-05,20,6.2,7.2,,6.7,,,6.7,6.7
+Ezri Konsa,Aston Villa,Center Back,26,2023/24,80,Knee Injury,2024-02-04,2024-03-01,26,6.8,6.0,6.5,6.433333333333334,6.4,5.7,7.1,6.400000000000001
+Youri Tielemans,Aston Villa,Central Midfielder,27,2023/24,81,Groin Injury,2024-04-27,2024-06-10,44,6.7,7.6,7.5,7.266666666666667,,,,
+Youri Tielemans,Aston Villa,Central Midfielder,27,2023/24,81,Calf Injury,2023-12-13,2024-01-12,30,5.9,6.7,7.2,6.6000000000000005,5.9,5.8,7.4,6.366666666666667
+Lucas Digne,Aston Villa,Left Back,30,2023/24,79,Hamstring Injury,2023-12-26,2024-02-06,42,6.4,,6.3,6.35,,,6.3,6.3
+Pau Torres,Aston Villa,Center Back,27,2023/24,82,Ankle Injury,2024-01-05,2024-02-04,30,6.0,,,6.0,,6.3,6.3,6.3
+Pau Torres,Aston Villa,Center Back,27,2023/24,82,Unknown Injury,2023-12-18,2023-12-23,5,6.3,6.7,5.6,6.2,7.2,6.0,6.7,6.633333333333333
+Álex Moreno,Aston Villa,Left Back,31,2023/24,80,Minor Knock,2024-04-15,2024-05-31,46,,5.5,6.4,5.95,,,,
+Jhon Durán,Aston Villa,Center Forward,20,2023/24,68,Unknown Injury,2023-08-11,2023-08-13,2,,,,,7.5,6.0,5.7,6.3999999999999995
+Jhon Durán,Aston Villa,Center Forward,20,2023/24,68,Infection,2023-10-21,2023-10-23,2,,5.0,5.0,5.0,,,,
+Jhon Durán,Aston Villa,Center Forward,20,2023/24,68,Infection,2023-10-28,2023-11-06,9,,5.0,5.0,5.0,,,,
+Jhon Durán,Aston Villa,Center Forward,20,2023/24,68,Hamstring Injury,2024-01-25,2024-03-08,43,,6.1,,6.1,,5.3,6.0,5.65
+Morgan Rogers,Aston Villa,Attacking Midfielder,21,2023/24,67,Hamstring Injury,2024-05-06,2024-06-01,26,6.8,7.3,7.3,7.133333333333333,,,,
+Leon Bailey,Aston Villa,Right Winger,26,2023/24,80,Ill,2024-05-18,2024-05-31,13,7.0,5.9,5.6,6.166666666666667,,,,
+Jacob Ramsey,Aston Villa,Attacking Midfielder,23,2023/24,78,Foot Injury,2023-07-02,2023-09-20,80,,,,,,7.3,,7.3
+Jacob Ramsey,Aston Villa,Attacking Midfielder,23,2023/24,78,Foot Injury,2023-10-04,2023-11-24,51,7.3,,,7.3,,,5.2,5.2
+Jacob Ramsey,Aston Villa,Attacking Midfielder,23,2023/24,78,Hamstring Injury,2024-01-13,2024-01-29,16,,6.3,5.7,6.0,6.1,6.4,6.2,6.233333333333333
+Jacob Ramsey,Aston Villa,Attacking Midfielder,23,2023/24,78,Toe Injury,2024-03-03,2024-05-31,89,7.2,6.2,6.4,6.6000000000000005,,,,
+Boubacar Kamara,Aston Villa,Defensive Midfielder,24,2023/24,80,Knee Injury,2024-02-11,2024-05-31,110,6.6,5.6,7.2,6.466666666666666,,,,
+Philippe Coutinho,Aston Villa,Attacking Midfielder,32,2023/24,79,Hamstring Injury,2023-08-20,2023-09-25,36,5.0,6.0,,5.5,,,,
+Kristoffer Ajer,Brentford,Center Back,26,2023/24,76,Foot Injury,2023-12-02,2024-01-16,45,5.5,5.1,5.9,5.5,6.1,6.0,6.0,6.033333333333334
+Kristoffer Ajer,Brentford,Center Back,26,2023/24,76,Calf Injury,2024-04-06,2024-04-20,14,7.6,6.7,5.6,6.633333333333333,7.0,6.2,6.9,6.7
+Ethan Pinnock,Brentford,Center Back,29,2023/24,79,Ankle Injury,2024-02-10,2024-04-13,63,6.0,5.6,6.9,6.166666666666667,6.2,7.1,6.4,6.566666666666667
+Rico Henry,Brentford,Left Back,24,2023/24,75,Knee Injury,2023-09-16,2024-10-05,385,5.6,6.2,6.0,5.933333333333333,,,,
+Christian Norgaard,Brentford,Defensive Midfielder,30,2023/24,77,Foot Injury,2024-01-05,2024-01-30,25,6.9,7.1,6.3,6.766666666666666,7.1,6.2,7.1,6.8
+Christian Norgaard,Brentford,Defensive Midfielder,30,2023/24,77,Back Injury,2024-03-09,2024-04-16,38,6.8,7.5,5.7,6.666666666666667,6.1,6.5,6.4,6.333333333333333
+Josh Dasilva,Brentford,Central Midfielder,23,2023/24,73,Hamstring Injury,2023-08-19,2024-01-04,138,6.1,,,6.1,6.1,6.0,,6.05
+Josh Dasilva,Brentford,Central Midfielder,23,2023/24,73,Ankle Injury,2023-12-06,2024-03-30,115,6.1,,,6.1,6.1,6.0,,6.05
+Josh Dasilva,Brentford,Central Midfielder,23,2023/24,73,Knee Injury,2024-02-05,2025-03-15,404,6.1,6.0,,6.05,,,,
+Shandon Baptiste,Brentford,Central Midfielder,24,2023/24,70,Shoulder Injury,2023-08-25,2023-11-11,78,5.6,,,5.6,6.0,6.2,0.0,4.066666666666666
+Bryan Mbeumo,Brentford,Right Winger,22,2023/24,80,Ankle Injury,2023-12-07,2024-03-12,96,6.0,8.2,5.4,6.533333333333334,7.0,6.0,5.4,6.133333333333333
+Yoane Wissa,Brentford,Center Forward,25,2023/24,79,Ankle Injury,2024-09-14,2024-11-30,77,5.9,6.0,5.7,5.866666666666667,,,,
+Ben Mee,Brentford,Center Back,33,2023/24,79,Muscle Injury,2023-09-26,2023-10-20,24,6.1,5.6,,5.85,6.1,5.2,6.8,6.033333333333334
+Ben Mee,Brentford,Center Back,33,2023/24,79,Ankle Injury,2024-02-26,2024-06-30,125,5.2,5.8,5.6,5.533333333333332,,,,
+Aaron Hickey,Brentford,Right Back,22,2023/24,76,Hamstring Injury,2023-11-02,2025-04-02,517,5.7,5.1,5.6,5.466666666666666,,,,
+Kevin Schade,Brentford,Left Winger,21,2023/24,72,Thigh Injury,2023-09-23,2024-04-10,200,6.0,6.0,5.8,5.933333333333334,6.1,7.1,6.0,6.3999999999999995
+Mikkel Damsgaard,Brentford,Left Winger,22,2023/24,73,Knee Injury,2023-09-29,2023-12-05,67,6.1,6.0,,6.05,5.8,5.7,6.7,6.066666666666666
+Mikkel Damsgaard,Brentford,Left Winger,22,2023/24,73,Thigh Injury,2023-08-26,2023-09-27,32,6.1,6.0,,6.05,5.8,5.7,6.7,6.066666666666666
+Mark Flekken,Brentford,Goalkeeper,31,2023/24,79,Ill,2023-10-03,2023-10-19,16,5.7,6.0,6.3,6.0,6.4,6.6,5.8,6.266666666666667
+Nathan Collins,Brentford,Center Back,23,2023/24,75,Ankle Injury,2023-11-18,2023-12-15,27,7.5,7.8,6.7,7.333333333333333,7.0,3.9,6.4,5.766666666666667
+Nathan Collins,Brentford,Center Back,23,2023/24,75,Unknown Injury,2024-05-17,2024-06-26,40,6.7,7.2,6.2,6.7,,,,
+Rodrigo Bentacur,Tottenham,Defensive Midfielder,26,2023/24,82,Ankle Injury,2023-11-27,2023-12-29,32,5.8,6.2,6.3,6.1000000000000005,6.5,7.2,6.5,6.733333333333333
+Giovani Lo Celso,Tottenham,Central Midfielder,27,2023/24,81,Hamstring Injury,2023-08-29,2023-10-05,37,,,,,6.8,7.4,7.7,7.3
+Giovani Lo Celso,Tottenham,Central Midfielder,27,2023/24,81,Unknown Injury,2023-12-14,2024-12-22,374,7.4,7.1,6.7,7.066666666666667,6.1,7.4,8.2,7.233333333333333
+Giovani Lo Celso,Tottenham,Central Midfielder,28,2023/24,80,Muscle Injury,2024-01-06,2024-02-11,36,6.1,5.8,8.2,6.7,7.8,8.2,8.3,8.1
+Giovani Lo Celso,Tottenham,Central Midfielder,28,2023/24,80,Knee Injury,2024-05-15,2024-05-20,5,6.8,6.7,7.2,6.8999999999999995,,,,
+Bryan Gil,Tottenham,Left Winger,22,2023/24,77,Groin Injury,2023-08-02,2023-10-05,64,6.9,7.3,7.0,7.066666666666667,6.3,6.6,6.6,6.5
+Jóhann Berg Gudmundsson,Burnley,Right Winger,32,2023/24,72,Muscle Injury,2023-09-23,2023-10-22,29,5.7,5.8,5.6,5.699999999999999,6.4,7.1,6.3,6.6000000000000005
+Jordan Beyer,Burnley,Center Back,23,2023/24,75,Knee Injury,2023-10-04,2023-10-30,26,6.9,6.1,7.0,6.666666666666667,5.8,6.3,6.4,6.166666666666667
+Jordan Beyer,Burnley,Center Back,23,2023/24,75,Knee Injury,2024-01-08,2024-05-31,144,5.9,6.4,7.0,6.433333333333334,,,,
+Hjalmar Ekdal,Burnley,Center Back,23,2023/24,73,Knee Injury,2023-08-30,2023-11-18,80,,,,,6.0,6.4,6.0,6.133333333333333
+Mike Trésor,Burnley,Left Winger,24,2023/24,78,Hamstring Injury,2023-08-10,2023-09-17,38,,,,,6.0,5.9,5.6,5.833333333333333
+Luca Koleosho,Burnley,Right Winger,19,2023/24,68,Knee Injury,2023-12-06,2024-06-17,194,6.0,7.2,6.0,6.3999999999999995,,,,
+Nathan Redmond,Burnley,Right Winger,29,2023/24,75,Unknown Injury,2023-09-10,2023-10-15,35,5.6,5.7,,5.65,6.0,5.0,6.0,5.666666666666667
+Ameen Al-Dakhil,Burnley,Center Back,21,2023/24,72,Muscle Injury,2024-02-08,2024-09-23,228,6.8,6.3,,6.55,,,,
+Vitinho,Burnley,Right Back,24,2023/24,71,Knee Injury,2023-08-30,2023-09-25,26,5.5,,,5.5,5.3,5.3,6.0,5.533333333333334
+Alex Iwobi,Everton,Left Winger,27,2023/24,76,Hamstring Injury,2023-08-20,2023-09-15,26,5.2,6.4,,5.800000000000001,,,,
+Dominic Calvert-Lewin,Everton,Center Forward,26,2023/24,77,Broken Cheekbone,2023-08-01,2023-09-14,44,,,,,5.8,6.9,7.4,6.7
+Dominic Calvert-Lewin,Everton,Center Forward,27,2023/24,77,Ill,2024-04-25,2024-05-01,6,7.3,6.1,7.5,6.966666666666666,6.8,7.9,6.0,6.8999999999999995
+Abdoulaye Doucouré,Everton,Central Midfielder,30,2023/24,77,Thigh Injury,2023-12-17,2024-01-12,26,6.2,7.0,7.3,6.833333333333333,6.2,5.9,5.7,5.933333333333334
+Vitaliy Mykolenko,Everton,Left Back,24,2023/24,75,Groin Injury,2023-12-15,2023-12-22,7,6.8,6.5,6.7,6.666666666666667,6.9,5.5,6.7,6.366666666666667
+Vitaliy Mykolenko,Everton,Left Back,24,2023/24,75,Ill,2024-03-28,2024-04-01,4,5.7,5.9,5.9,5.833333333333333,6.4,6.6,4.9,5.966666666666666
+Vitaliy Mykolenko,Everton,Left Back,24,2023/24,75,Ankle Injury,2024-04-25,2024-06-04,40,6.0,6.9,4.9,5.933333333333334,,,,
+Nathan Patterson,Everton,Right Back,20,2023/24,72,Hamstring Injury,2024-04-15,2024-06-11,57,5.3,,,5.3,,,,
+Amadou Onana,Everton,Defensive Midfielder,22,2023/24,77,Calf Injury,2023-11-11,2023-12-08,27,6.1,6.9,6.2,6.400000000000001,6.3,8.2,6.1,6.866666666666667
+Dwight McNeil,Everton,Left Winger,23,2023/24,76,Ankle Injury,2023-07-29,2023-09-01,34,,,,,6.0,5.4,7.6,6.333333333333333
+Ashley Young,Everton,Left Back,38,2023/24,75,Muscle Injury,2023-12-11,2024-01-25,45,6.1,6.7,6.8,6.533333333333334,5.6,6.3,5.2,5.699999999999999
+Jack Harrison,Everton,Right Winger,26,2023/24,76,Hip Injury,2023-07-01,2023-09-21,82,,,,,6.5,8.5,5.4,6.8
+Beto,Everton,Center Forward,25,2023/24,81,Knee Injury,2023-11-23,2023-11-28,5,6.0,5.8,6.0,5.933333333333334,5.7,5.8,6.0,5.833333333333333

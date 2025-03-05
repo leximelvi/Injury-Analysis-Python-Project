@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.csv
-.DS_Store
+
+<<<<<<< HEAD
+=======
 .png
 .jpg
+>>>>>>> 0db0f8b2a32fd37a05c35a473999ed2e7724f1a6
 
 # C extensions
 *.so
