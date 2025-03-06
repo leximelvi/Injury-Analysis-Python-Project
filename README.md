@@ -10,5 +10,5 @@ I approached this overarching question by looking at data of injured players bas
 
 For this project, I primarily focused on 7 Premier League teams: Arsenal, Tottenham, Newcastle, Aston Villa, Everton, Burnley, and Brentford. I was interested in seeing if there was a way to help managers and team owners to determine when it was time to turn a starting player into a substitue, or to even let the player go.
 
-Please find a link to my Keynotes Presentation below.
+Please find a link to my Keynote Presentation below.
 https://www.icloud.com/keynote/01d5z7PxoA26aF1oeDmWj_9Kg#Injury_Analysis_Python_Project
