@@ -9,3 +9,6 @@ Sports are an integral part of many people's lives. Whether it's sports betting,
 I approached this overarching question by looking at data of injured players based on age group (Under 27, 27 and Older), the type of injury, and whether they had one injury or multiple injuries. I took a look at whether age had an effect on a player's ability to return to form. I then looked at the types of injuries players had and what effect they had on the player. Lastly, I looked at how many injuries the players had. I compared the different pieces of data I analyzed with the player ratings to determine how well a player returned to form.
 
 For this project, I primarily focused on 7 Premier League teams: Arsenal, Tottenham, Newcastle, Aston Villa, Everton, Burnley, and Brentford. I was interested in seeing if there was a way to help managers and team owners to determine when it was time to turn a starting player into a substitue, or to even let the player go.
+
+Please find a link to my Keynotes Presentation below.
+https://www.icloud.com/keynote/01d5z7PxoA26aF1oeDmWj_9Kg#Injury_Analysis_Python_Project
